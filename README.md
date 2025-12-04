@@ -1,5 +1,5 @@
 # MT-Cars-Mileage-Prediction
-Just a fun and organized experiment on Mileage prediction on MT cars dataset
+This project is about analyzing the MT-Cars data and using regression models to predict the Mileage of the car
 
 1. Imported Libraries for Data Ingestion, Data Cleaning, Data analysis
 2. Ingested data from pydataset
